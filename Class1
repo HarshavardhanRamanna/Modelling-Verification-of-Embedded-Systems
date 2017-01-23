@@ -1,0 +1,10 @@
+Embedded Systems are systems which have to compute. But the computation itself not the end result.
+They have to be reactive and needs to be integral woth physical systems.
+They also tend to work as part of a network.
+
+Models are abstractions of real systems. They need to be simple enough to reson but detailed enough to capture properties of interest.
+Abstraction layers need to hide non-essential information from the lower layers.
+The flow is usually Model -> Design -> Analysis
+
+The abstraction levels are qi=uite apparent un intergrated circuits. The various layers in an intergrated circuit are homogenous in nature, allowing easy
+abstractions. This is not the case with embedded systems. This is accentuated also by the fact that embedded systems are usually time-reliant.
