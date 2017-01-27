@@ -1,0 +1,15 @@
+Signals are functions. Functions are mappings from domain to co-domain. It is represented by F: R -> R or R^R. Codomain ^ Domain.
+
+If we consider f to be defining a
+subset (1,3,5) of A, then what does F
+represent (with regard to subsets)?
+
+Ans: F is the powerset i.e, set of all combination sets.
+
+Pure signals are those that only take values Present and Absent.
+Impure signals take values Absent along with values = Absent U {values}
+
+Reactions are updates and are triggered when at least one of the input signals is not Absent.
+
+Deterministic FSMs are those that have Inputs, Outputs, States, Initial States and Updates all defined.
+
